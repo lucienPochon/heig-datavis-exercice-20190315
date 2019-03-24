@@ -12,5 +12,5 @@ const writeJson = require('./writeJson')
     writeJson('asylum.json', data)
 */
 
-const URL = 'https://raw.githubusercontent.com/idris-maps/heig-datavis-2019/master/20190315-node/exercie_node/ch_asylum_demands.csv'
+const URL = 'https://raw.githubusercontent.com/idris-maps/heig-datavis-2019/master/20190322-node/exercice_node/ch_asylum_demands.csv'
 // le lien vers le fichier CSV
